@@ -1,0 +1,6 @@
+print("go fuck your self gabriel")
+print("mean :<")
+print("no shit sherlock")
+print("fuck you >:c")
+print("the monkey speaks ")
+print("im done talking to you fuck you")
